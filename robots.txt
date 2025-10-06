@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# This is a private workspace directory
+# Web crawlers should not index this content
